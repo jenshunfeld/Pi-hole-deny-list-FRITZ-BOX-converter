@@ -1,0 +1,16 @@
+#### Configuartion ### Pi-hole deny-list FRITZ!BOX converter ### by Hunfeld.eu ###
+#
+#
+Line-number-to-start-from: 0
+#
+number-of-URLs: 100
+#
+Filename-of-the-list-of-included-domains: url-list.txt
+#
+File-name-for-the-new-list: new-url-list.txt
+#
+console-output: true
+#
+log-production: true
+#
+File-name-for-the-logs: Pi-Hole-Convert.log
